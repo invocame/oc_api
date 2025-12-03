@@ -2,6 +2,8 @@
 
 This repository contains the API service for OpenCitations, allowing users to interact with the OpenCitations datasets through RESTful endpoints.
 
+test sonarqube
+
 ## Overview
 
 The service provides two main API endpoints:
